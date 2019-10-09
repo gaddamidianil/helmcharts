@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  alerta:
+  - apiVersion: v1
+    appVersion: 6.0.0
+    created: 2019-10-09T15:02:39.102012-04:00
+    description: A Helm chart for alerts monitoring system
+    digest: 860d4de46b93a85a344da4255f74eef26f0560484f06f004965a8a688d991484
+    name: alerta
+    urls:
+    - alerta-0.2.0.tgz
+    version: 0.2.0
+generated: 2019-10-09T15:02:39.098887-04:00
