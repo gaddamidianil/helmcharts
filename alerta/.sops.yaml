@@ -1,0 +1,4 @@
+creation_rules:
+  - path_regex: "secrets/*"
+    kms: arn:aws:kms:us-east-1:752320408524:key/ff49b6a5-e01b-4423-aff4-75b11d79ccac
+    unencrypted_suffix: _unencrypted
